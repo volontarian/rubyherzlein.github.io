@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "summary of day 1-3 -- GitHub vs. Git"
+title: "keep on Keeping on - Dunning Kruger"
 modified:
 categories: blog
 excerpt:

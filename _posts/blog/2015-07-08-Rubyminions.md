@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "appetizers from Franzi"
+title: "appetizers from the rubyminions"
 modified:
 categories: blog
 excerpt:
 tags: []
 date: 2015-07-08T11:39:55-04:00
 ---
-Franzi has become friends with the rubyminions. They are her accomplice on the rollercoaster ride to grasp technological topics.
+The rubyminions, new friends and accomplices on the rollercoaster ride to grasp technological topics.
 
 ![rubyminion](/images/rubyminion.jpg)
 
-Read her blog posts on medium:
+Read the first blog posts on medium:
 
 [The internet NGO ‘DNS’ and enterprises like Google Chrome](https://medium.com/@WlFranzi/about-the-internet-ngo-dns-and-enterprises-like-google-chrome-981384ce1276)
 
