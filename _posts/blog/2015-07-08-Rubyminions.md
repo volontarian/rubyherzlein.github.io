@@ -7,7 +7,7 @@ excerpt:
 tags: []
 date: 2015-07-08T11:39:55-04:00
 ---
-The rubyminions, new friends and accomplices on the rollercoaster ride to grasp technological topics.
+The rubyminions - new friends and accomplices on the rollercoaster ride to grasp technological topics.
 
 ![rubyminion](/images/rubyminion.jpg)
 
