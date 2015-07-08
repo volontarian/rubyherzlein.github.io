@@ -77,6 +77,10 @@ span + .entry-title {
 
 /* page/post wrapper */
 
+.row single-post img {
+	max-width: 60%;
+}
+
 .entry-wrapper {
 	@include outer-container;
 	margin-top: 0;
