@@ -13,6 +13,7 @@ Yesterday we had a short and sweet tutoring session with [Jessica Kerr](https://
 ![Hanging out](/images/JessicaKerr.jpg)
 
 Jessica came up with Standard Streams, that is StandardOut (STDOUT) and StandardIn (STDIN).
+
 To keep it very simple - anything else would extend the boundaries of our knowledge at this very moment anyways.
 We have the computer, the terminal and the shell. If you'd explain it in a very childish way: Shell takes advantag of terminal to boss around computer - clever ass. 
 
