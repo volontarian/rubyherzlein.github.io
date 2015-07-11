@@ -13,7 +13,7 @@ Yesterday we had a short and sweet tutoring session with [Jessica Kerr](https://
 ![Hanging out](/images/JessicaKerr.jpg)
 
 Jessica came up with Standrad Streams, that is Standard out and Standard In. To keep it very simple - anything else would extend the boundaries of our knowledge at this very moment anyways.
-We have the computer, the terminal and the shell. If you'd explain it in a very childish way: Shell takes advantag of terminal to bosses around computer - clever ass. 
+We have the computer, the terminal and the shell. If you'd explain it in a very childish way: Shell takes advantag of terminal to boss around computer - clever ass. 
 
 Once upon a time we, as human beeing, all partnered up with shell in order to talk with the computer. 
 This is one of the very first versions: TV100:
