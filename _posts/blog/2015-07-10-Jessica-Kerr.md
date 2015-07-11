@@ -24,6 +24,7 @@ In this image you see a terminal and in it runs the programm shell. It is kind o
 
 Nowadays terminals are not external hardware anymore but part of the whole ökosystem computer (check it out: type "terminal" in your spotlight search). 
 STDIN and STDOUT are the two mail boxes via which terminal and shell talk. STDIN is where shell puts stuff INside for terminal e.g. a file and STDOUT is the same thing the other way around. And than you have funny commands which defines what/who of the two puts what when in what whenever mailbox and gets it out Or. Are they? Yes. Just kidding. Or am I? Well, I guess you got the idea... 
+
 As soon as terminal and shell have sorted out their mail box issue terminal drops the message off at computer. This is not only confusing to us, even terminal and shell mix up stuff all the time and get lost. E.g. type in terminal:  cat [enter] --> [dead-end](http://28.media.tumblr.com/tumblr_kx9q1aiyd11qzobxio1_r1_500.gif)
 
 ![STDINOUT](/images/STDOUTIN.jpg)
