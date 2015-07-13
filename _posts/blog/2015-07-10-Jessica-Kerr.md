@@ -33,4 +33,8 @@ Eventually, after shell and terminal have sorted out their mailbox mess, they wi
 STDIN-STDOUT-hurly-burly
 
 
-THANK YOU JESSICA ;) <3
+THANK YOU JESSICA ;)
+
+we "herzlein" your tattoo big time!! <3
+
+![JessicasQRCode](/Jessicas_personal_QR_code.jpg)
