@@ -81,8 +81,10 @@ span + .entry-title {
 
 /* page/post wrapper */
 
-.row single-post img {
-	max-width: 60%;
+.post-details {
+	color: #C2265B;
+	font-weight: bold;
+	font-size: 25px;
 }
 
 .entry-wrapper {
@@ -161,6 +163,8 @@ span + .entry-title {
 
 /* main content block */
 
+
+
 .entry-content {
 	@include span-columns(12);
 	p:first-child {
@@ -177,6 +181,9 @@ span + .entry-title {
 			border-bottom-style: solid;
 		}
 	}
+	img {
+  max-width: 68% !important;
+ 	}
 }
 
 /*

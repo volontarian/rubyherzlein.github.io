@@ -20,6 +20,7 @@ We have the computer, the terminal and the shell. If you'd explain it in a very 
 Once upon a time we, as human beeings, all partnered up with shell in order to talk with the computer. 
 This is one of the very first versions: TV100:
 ![TV100](/images/TV100.jpg)
+
 This image shows a terminal and in the terminal runs the programm shell. "The terminal is like a TV - it is stupid *(Erik, July 13th 2015)*." The TV only reflect images and other stupid stuff, the actual TV program and brain is shell.
 
 Nowadays terminals are not external hardware anymore but part of the whole ecosystem computer (check it out: type "terminal" in your spotlight search). 
@@ -30,6 +31,7 @@ This is not only confusing to us, even terminal and shell mix up stuff all the t
 Eventually, after shell and terminal have sorted out their mailbox mess, they will let computer know what to do.
 
 ![STDINOUT](/images/STDOUTIN.jpg)
+
 STDIN-STDOUT-hurly-burly
 
 
