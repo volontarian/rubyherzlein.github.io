@@ -35,6 +35,12 @@ STDIN-STDOUT-hurly-burly
 
 THANK YOU JESSICA ;)
 
-we "herzlein" your tattoo big time!! <3
 
-![JessicasQRCode](/Jessicas_personal_QR_code.jpg)
+
+![Jessica](/images/Jessicas_personal_QR_code.jpg)
+
+We "herzlein" your QR-Code-tattoo big time!! <3<3
+
+*- The QR Code links to Jessica's twitter handle -*
+
+
