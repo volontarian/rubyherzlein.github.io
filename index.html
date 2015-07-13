@@ -9,15 +9,20 @@ image:
     {% for post in site.posts %}
     <div class="row single-post">
         <div>
-            <h1 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
 
             <div class="post-details">
                 <span>{{ post.date | date: "%b %-d, %Y" }}</span>
             </div>
 
+            <h1 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+
             <p class="post-content">
                 {{post.content}}
             </p>
+            <hr>
+            <br>
+            <br>
+
 
         </div>
     </div>
