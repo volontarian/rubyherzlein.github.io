@@ -41,5 +41,17 @@ Learning to program is hard! On this page we are compiling a list of our favouri
 [Vim Adventures](http://vim-adventures.com/)
 You can also just type 'vimtutor' in your console, and there's a tutorial in there! 
 
+## RSpec:
+
+[Code School RSpec game](http://rspec.codeschool.com/levels/1)
+
+[Nell Shamrell - Test Driven Development: A Love Story - Ancient City Ruby 2013](https://www.youtube.com/watch?v=nBtO1UOK9Hs)
+
+[RSpec Cheat Sheet](http://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf)
+
+[Wikipedia on TDD](https://en.wikipedia.org/wiki/Test-driven_development)
+
+
+
 
 
