@@ -51,6 +51,16 @@ You can also just type 'vimtutor' in your console, and there's a tutorial in the
 
 [Wikipedia on TDD](https://en.wikipedia.org/wiki/Test-driven_development)
 
+## SQL:
+
+[SQL Teaching](https://www.sqlteaching.com/)
+
+[Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
+
+[SQL Tutorial](http://sqlzoo.net/)
+
+[SQLCourse](http://www.sqlcourse.com/)
+
 
 
 
