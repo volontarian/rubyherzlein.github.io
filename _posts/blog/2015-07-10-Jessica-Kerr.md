@@ -14,7 +14,7 @@ Yesterday we had a short and sweet tutoring session with [Jessica Kerr](https://
 
 Jessica introduced us to Standard Streams, that is Standard out (STDOUT) and Standard in (STDIN).
 
-To keep it very simple - anything else would go beyond the boundaries of our knowledge at this very moment - we have the computer, the terminal and the shell. How do these things interact? The shell takes advantage of the terminal to boss around computer! 
+To keep it very simple - anything else would go beyond the boundaries of our knowledge at this very moment - we have the computer, the terminal and the shell. How do these things interact? The shell takes advantage of the terminal to boss around computer - clever ass 
 
 The terminal is a place that can take your commands, and runs the shell program. Your shell is the reason you can do and see stuff. A terminal without the shell is like a TV without TV channels. In the terminal the shell is the default program. The terminal in itself doesn’t do anything. 
 
